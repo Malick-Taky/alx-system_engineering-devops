@@ -7,4 +7,4 @@
 	* Long format
 	*With user and group IDs displayed numerically
 	*And hidden files
-
+6- The script 6-firstdirectory creates a directory named my_first_directory in the /tmp/directory.
