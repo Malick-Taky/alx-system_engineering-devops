@@ -2,4 +2,4 @@
 
 1- The script 1-who_am_i in the file prints the effective username of the current user.
 
-
+2- The script 2-groups in the file prints all the groups the current user is part of.
