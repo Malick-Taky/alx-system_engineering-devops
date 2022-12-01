@@ -7,3 +7,5 @@
 3- THe script 3-new_owner in the file changes the owner of the file hello to the user betty.
 
 4- The script 4-empty in the file creates an empty file called hello.
+
+5- The script 5-execute in the file adds execute permission to the owner of the file hello.
