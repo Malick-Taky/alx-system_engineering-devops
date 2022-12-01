@@ -25,4 +25,6 @@
 
 11- The script 11-lists in the file lists all files in the current directory and the parent of the working directory and the /boot directory, in long format.
 
-12- The script 12-file_type in the file prints the type of the file named iamafile. 
+12- The script 12-file_type in the file prints the type of the file named iamafile.
+
+13- The script 13-symbolic_linc in the file creates a symbolic link to/bin/ls, named __ls__. 
