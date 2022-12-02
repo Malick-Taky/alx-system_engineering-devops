@@ -28,3 +28,7 @@
 11- The script 11-directories_permissions in the file adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
 12- The script 12-directory_permissions in the file creates a directory called my_dir with permissions 751 in the working directory.
+
+13- The script 13-change_group in the file changes the group owner to school for the file hello.
+
+
