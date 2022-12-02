@@ -23,4 +23,4 @@
 9- The script 9-John_Doe sets the mode of the file hello to this:
 	-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 
-
+10- The script 10-mirror_permissions in the file sets the mode of the file hello the same as olleh's mode.
