@@ -12,4 +12,4 @@
 
 6- The script 6-multiple_permissions in the file adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
-
+7- The script 7-everybody in the file adds execution permission to the owner, the group owner and the other users, to the filehello.
