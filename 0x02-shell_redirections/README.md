@@ -31,3 +31,5 @@ Requirements:
 
 One file per line
 Sorted from the newest to the oldest
+
+14- The script 14-filethatword in the file displays lines containing the pattern “root” from the file /etc/passwd
