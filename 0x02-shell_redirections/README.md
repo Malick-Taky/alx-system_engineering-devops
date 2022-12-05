@@ -9,3 +9,5 @@
 4- The script 4-lastlines in the file displays the last 10 lines of /etc/passwd.
 
 5- The script 5-firstlines in the file displays the first 10 lines of /etc/passwd.
+
+6- The script 6-third-line displays the third line of the file iacta.
