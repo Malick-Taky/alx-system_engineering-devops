@@ -40,4 +40,6 @@ Sorted from the newest to the oldest
 
 17- The script 17-hidethisword in the file displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+18- The script 18-letteronly in the file displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
 
