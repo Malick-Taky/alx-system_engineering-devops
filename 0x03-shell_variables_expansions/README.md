@@ -6,4 +6,8 @@
 
 2- The script 2-path in the file adds /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
+3- The script 3-paths in the file counts the number of directories in the path.
+
+4- The script 4-global_variables in the file lists environment variables.
+
 
