@@ -19,3 +19,7 @@
 7- The script 7-create_global_variable in the file creates a new global variable.
         *Name: BEST
         *School: School
+
+8- The script 8-true_knowledge in the file prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+
