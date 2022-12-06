@@ -12,4 +12,6 @@
 
 5- The script 5-local_variables in the file lists all local variables and environment variables, and functions.
 
-
+6- The script 6-create_local_variable in the file creates a new local variable.
+	*Name: Best
+	*School: School
