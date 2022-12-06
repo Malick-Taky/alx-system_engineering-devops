@@ -10,4 +10,6 @@
 
 4- The script 4-global_variables in the file lists environment variables.
 
+5- The script 5-local_variables in the file lists all local variables and environment variables, and functions.
+
 
