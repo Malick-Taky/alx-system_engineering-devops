@@ -15,3 +15,7 @@
 6- The script 6-create_local_variable in the file creates a new local variable.
 	*Name: Best
 	*School: School
+
+7- The script 7-create_global_variable in the file creates a new global variable.
+        *Name: BEST
+        *School: School
