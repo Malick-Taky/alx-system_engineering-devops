@@ -44,4 +44,4 @@ Sorted from the newest to the oldest
 
 19- The script 19-AZ in the file replaces all characters A and c from input to Z and e respectively.
 
-
+20- The script 20-hiago in the file creates a script that removes all letters c and C from input.
