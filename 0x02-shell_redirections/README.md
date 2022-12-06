@@ -38,4 +38,6 @@ Sorted from the newest to the oldest
 
 16- The script 16-whatsnext in the file displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
+17- The script 17-hidethisword in the file displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
 
