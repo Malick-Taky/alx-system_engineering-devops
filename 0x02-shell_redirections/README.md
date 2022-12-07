@@ -54,3 +54,7 @@
 20- The script 20-hiago in the file creates a script that removes all letters c and C from input.
 
 21- The script 21-reverse in the file reverses its input.
+
+22- The script 22-users_and_homes in the file displays all users and their home directories, sorted by users.
+
+	*Based on the the /etc/passwd file
