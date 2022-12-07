@@ -32,6 +32,13 @@
 	*One file per line
 	*Sorted from the newest to the oldest
 
+13- The script 13-uniq in the file takes a list of words as input and prints only words that appear exactly once.
+
+	*Input format: One line, one word
+	*Output format: One line, one word
+	*Words should be sorted
+
+
 14- The script 14-filethatword in the file displays lines containing the pattern “root” from the file /etc/passwd.
 
 15- The script 15-countthatword in the file display the number of lines that contain the pattern “bin” in the file /etc/passwd.
