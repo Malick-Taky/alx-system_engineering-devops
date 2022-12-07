@@ -22,15 +22,15 @@
 
 11- The script 11-directories in the file counts the number of directories and sub-directories in the current directory.
 
-The current and parent directories should not be taken into account
-Hidden directories should be counted
+	*The current and parent directories should not be taken into account
+	*Hidden directories should be counted
 
 12- The script 12-newest_files in the file displays the 10 newest files in the current directory.
 
-Requirements:
+	*Requirements:
 
-One file per line
-Sorted from the newest to the oldest
+	*One file per line
+	*Sorted from the newest to the oldest
 
 14- The script 14-filethatword in the file displays lines containing the pattern “root” from the file /etc/passwd.
 
